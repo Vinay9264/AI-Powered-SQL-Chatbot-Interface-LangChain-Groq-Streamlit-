@@ -17,3 +17,5 @@ An intelligent chatbot interface that allows users to interact with structured S
 4. SQLite / MySQL
 
 <img width="1666" height="531" alt="image" src="https://github.com/user-attachments/assets/cf8c7d48-506e-46b9-87fa-2d68bf075f72" />
+
+<img width="1765" height="804" alt="image" src="https://github.com/user-attachments/assets/aa978169-077a-4aa2-97c4-2c308eb7fe19" />
