@@ -9,11 +9,10 @@ An intelligent chatbot interface that allows users to interact with structured S
 5. Caching & resource optimization for fast interaction
 6. Read-only access for SQLite for security
 
-(💡 You can deploy it easily via Streamlit Community Cloud)
 
 🧱 Tech Stack
-Python
-LangChain
-Groq LLM (gemma-2-9b-it)
-SQLite / MySQL
+1. Python
+2. LangChain
+3. Groq LLM (gemma-2-9b-it)
+4. SQLite / MySQL
 
