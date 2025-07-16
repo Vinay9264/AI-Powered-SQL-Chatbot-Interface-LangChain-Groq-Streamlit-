@@ -16,3 +16,4 @@ An intelligent chatbot interface that allows users to interact with structured S
 3. Groq LLM (gemma-2-9b-it)
 4. SQLite / MySQL
 
+<img width="1666" height="531" alt="image" src="https://github.com/user-attachments/assets/cf8c7d48-506e-46b9-87fa-2d68bf075f72" />
